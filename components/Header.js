@@ -22,7 +22,7 @@ function Header() {
     <header className="sticky top-0 bg-white">
       <div className="flex w-full p-6 items-center">
         <Image
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png"
+          src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"
           alt="Google Logo"
           onClick={() => router.push("/")}
           height={40}
