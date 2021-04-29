@@ -46,7 +46,7 @@ export default function Home() {
 
       <form className="flex flex-col items-center flex-grow justify-center w-4/5">
         <Image
-          src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png"
           height={100}
           width={300}
           className="hover:animate-pulse"
