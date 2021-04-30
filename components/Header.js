@@ -25,8 +25,8 @@ function Header() {
           src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"
           alt="Google Logo"
           onClick={() => router.push("/")}
-          height={40}
-          width={120}
+          height={60}
+          width={160}
           className="cursor-pointer hover:animate-pulse"
         />
         <form className="flex flex-grow px-6 py-3 ml-10 mr-5 border border-gray-200 rounded-full shadow-lg max-w-3xl items-center">
